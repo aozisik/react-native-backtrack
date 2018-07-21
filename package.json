@@ -1,0 +1,9 @@
+{
+  "name": "react-native-backtrack",
+  "version": "1.0.0",
+  "description": "Backtrack client for react-native",
+  "main": "src/backtrack.js",
+  "repository": "https://github.com/swiftmade/react-native-backtrack",
+  "author": "Swiftmade",
+  "license": "MIT"
+}
