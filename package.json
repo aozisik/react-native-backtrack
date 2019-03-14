@@ -1,9 +1,13 @@
 {
   "name": "react-native-backtrack",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Backtrack client for react-native",
-  "main": "src/backtrack.js",
+  "main": "src/Backtrack.js",
   "repository": "https://github.com/swiftmade/react-native-backtrack",
   "author": "Swiftmade",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "axios": "1.x",
+    "react-native-sqlite-storage": "^3.3.6"
+  }  
 }
